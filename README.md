@@ -2,11 +2,11 @@
 
 ### A Fullstack Java Dev that becomes Cloud Engineer
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CarlosAlbertoReyesV&theme=dark)](https://git.io/streak-stats))](#)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CarlosAlbertoReyesV&theme=monokai-metallian)](https://git.io/streak-stats)
 
 ## About Me
 
-What can i say? hmm i begun as Blackberry Dev ... yeah a long long time ago... next , did some android development for almost 2 year, and finally i begun to do backend dev in java the typical API , Webservices , a lot SQL Work with Oracle and all the Java Frameworks... i just can say that i love development buy after 15 years doing java i want a new challenge and the cloud was the target , now i work as a Devops/Cloud Eng.
+What can i say? hmm I begun as Blackberry Dev ... yeah a long long time ago... next , did some android development for almost 2 year, and finally i begun to do backend dev in java the typical API , Webservices , a lot SQL Work with Oracle and all the Java Frameworks... i just can say that i love development but after 15 years doing java i want a new challenge and the cloud was the target , now i work as a Devops/Cloud Eng.
 
 ✝️ "I can do all this through him who gives me strength"Philippians 4:13.. ✝️
 
