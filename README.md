@@ -2,7 +2,7 @@
 
 ### A Fullstack Java Dev that becomes Cloud Engineer
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CarlosAlbertoReyesV&theme=dark&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CarlosAlbertoReyesV&theme=dark)](https://git.io/streak-stats)](#)
 
 ## About Me
 
