@@ -10,7 +10,7 @@ What can i say? hmm I begun as Blackberry Dev ... yeah a long long time ago... n
 
 ✝️ "I can do all this through him who gives me strength"Philippians 4:13.. ✝️
 
-- 🌱 I’m currently learning Orchestration
+- 🌱 I’m currently learning about Infra for LLM
 - 💬 Ask me about Cloud tech or Java !!
 
 </br>
